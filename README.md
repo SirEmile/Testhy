@@ -1,12 +1,12 @@
 TESTHY
 ============
-[![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/EmileWin/Testhy/) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://emilewin.github.io/Testhy/)
+[![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/EmileWin/Testhy/) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://siremile.github.io/Testhy/)
 
 This project is a small GIPHY clone
 
 ## Demo
 
-You can check out working demo [here](https://emilewin.github.io/Testhy)
+You can check out working demo [here](https://siremile.github.io/Testhy/)
 
 ## ScreenShot
 
@@ -31,6 +31,6 @@ You can check out working demo [here](https://emilewin.github.io/Testhy)
 - It will be accessible at `localhost:9500`
 
 ## Licence
-You can check out the the licence [here](https://github.com/EmileWin/Testhy/blob/main/LICENCE)
+You can check out the the licence [here](https://github.com/SirEmile/Testhy/blob/main/LICENCE)
 
 This project is licenced under the terms of the **MIT** licence.
